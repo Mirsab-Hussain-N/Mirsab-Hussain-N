@@ -1,6 +1,6 @@
 # Hi there, I'm Mirsab Hussain N! 👋
 
-### 💻 Final year CSE student | Java Backend & Full-Stack Developer
+### Java Backend & Full-Stack Developer
 
 - 🎓 Pursuing B.E. in Computer Science at Cambridge Institute of Technology, Bangalore (2022–2026)
 - 🚀 Passionate about building real-world projects using **Spring Boot**, **React**, **MySQL**, and **MongoDB**
