@@ -38,4 +38,4 @@
 
 ---
 
-> “Code like there's no bug, debug like
+> “Code like there's no bug, debug like there's no tomorrow.”
